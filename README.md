@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mishael-M
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning React, Node.js, MongoDB, etc. from Fullstackopen.
+- 📖 I’m have learned React, Node.js, MongoDB, etc. from Fullstackopen.
+- 🌱 I'm currently practicing Front-End Development from The Odin Project.
 - 👨‍💻 I'm also learning back-end development using Java's Spring Boot.
 
 <!---
